@@ -22,7 +22,7 @@
 Estudante de QA, atualmente focando em JavaScript e Testes automatizados com Cypress. 🚀
 
 ## 📧 E-mail para contato: vbrombilla@gmail.com
-## 📱 Whatsapp: (53) 99903-4472
+
 
 
 

@@ -7,6 +7,8 @@
 
 ![viniciusb7 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusb7&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusb7)](https://github.com/viniciusb7/github-readme-stats)
+
 ## Tecnologias que costumo usar no meu dia 🧑‍💻
 
 <div style="display: inline_block"><br/>
